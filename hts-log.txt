@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Dec 2020 21:45:45 at http://localhost/Motunau/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/Motunau/ -O1 "C:\Users\User\Documents\Github\tdbnz-coding\Motunau\Motunau" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:46:03	Error: 	"Not Found" (404) at link localhost/Motunau/Trident/ (from localhost/Motunau/)
+21:46:04	Warning: 	Moved Permanently for localhost/Motunau/?p=1
+21:46:04	Warning: 	File has moved from localhost/Motunau/?p=1 to http://localhost/Motunau/2020/12/26/hello-world/
+21:46:05	Error: 	"Method Not Allowed" (405) at link localhost/Motunau/xmlrpc.php (from localhost/Motunau/2020/12/26/hello-world/)
+21:46:07	Error: 	"Not Found" (404) at link localhost/Motunau/2020/12/26/hello-world/Trident/ (from localhost/Motunau/2020/12/26/hello-world/)
+21:47:26	Error: 	"Not Found" (404) at link localhost/Motunau/category/uncategorised/Trident/ (from localhost/Motunau/category/uncategorised/)
+21:47:26	Error: 	"Not Found" (404) at link localhost/Motunau/wp-content/uploads/img/bg.jpg (from localhost/Motunau/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1608972352)
+21:47:26	Error: 	"Not Found" (404) at link localhost/Motunau/author/admin/Trident/ (from localhost/Motunau/author/admin/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 43 seconds : 40 links scanned, 32 files written (3343556 bytes overall) [3403983 bytes received at 33048 bytes/sec], 5.7 requests per connection
+(6 errors, 2 warnings, 0 messages)
